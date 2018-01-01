@@ -19,7 +19,7 @@ int main() {
 		}
 	}
 
-	cout << -1 << nl;
+	cout << -1 << endl;
 
 	return 0;
 }
